@@ -13,21 +13,34 @@ body{
     color: white;
 }
 
+
+
 section {
     margin: 250px 200px;
-    padding: 10px 10px 10px 10px;
+    padding: 20px 20px 20px 20px;
     background-color: rgba(81, 75, 75, 0.8);
     border-radius: 10px;
-    position: static;
+    text-align: left;
+    display: flex;
 }
 
-section h1{
+.mary1 h1{
     margin: 30px auto;
+    padding: 30px 30px;
+    text-align: right;
 }
 
-section p{
+.mary1 p{
     margin: 30px 30px;
-    
+    padding: 20px 20px;
+    text-align: right;
+}
+
+.mary2 img{
+    height: 200px;
+    width: auto;
+    position: static;
+    border-radius: 100px;
 }
 
 #logo img{
@@ -65,6 +78,22 @@ section p{
     width:300px;
     font-weight: bold;
 
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(81, 75, 75, 0.8);
+    margin-top: 350px;
+}
+
+footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style-type: none;
+    width: 100%;
 }
 
 .Manage img{
