@@ -15,7 +15,7 @@ body{
 
 
 
-section {
+#mary {
     margin: 250px 200px;
     padding: 20px 20px 20px 20px;
     background-color: rgba(81, 75, 75, 0.8);
@@ -80,7 +80,7 @@ section {
 
 }
 
-footer{
+/*footer{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: rgba(81, 75, 75, 0.8);
@@ -94,13 +94,45 @@ footer ul{
     flex-wrap: wrap;
     list-style-type: none;
     width: 100%;
-}
+}*/
 
 .Manage img{
     height: 50px;
     width: 50px;
     border-radius: 200px;
 }
+
+#port{
+    color: rgb(255, 255, 255);
+    padding: 50px ;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 250px 200px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgba(81, 75, 75, 0.8);
+    border-radius: 10px;
+    text-align: left;
+}
+
+
+#ports1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.ports2 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+
 
 
 
