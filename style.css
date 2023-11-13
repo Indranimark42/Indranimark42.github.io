@@ -131,6 +131,7 @@ h2{
     border-radius: 10px;
     transition: transform 0.8s;
     object-fit: cover;
+    overflow: hidden;
 }
 
 .projects-content img:hover{
