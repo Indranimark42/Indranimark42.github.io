@@ -132,6 +132,80 @@ footer ul{
     list-style-type: none;
 }
 
+.ports2 a{
+    text-decoration: none;
+}
+
+.ports3 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+.ports3 a{
+    text-decoration: none;
+}
+
+.ports4 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+.ports4 a{
+    text-decoration: none;
+}
+
+.ports5 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+.ports5 a{
+    text-decoration: none;
+}
+
+.ports6 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+.ports6 a{
+    text-decoration: none;
+}
+
+.ports7 {
+    padding: 30px 50px 30px 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    text-align: left;
+    list-style-type: none;
+}
+
+.ports7 a{
+    text-decoration: none;
+}
+
 
 
 
