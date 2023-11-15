@@ -122,24 +122,59 @@ footer ul{
     flex-wrap: wrap;
 }
 
+#portII {
+    display: flex;
+    box-shadow: 3px 3px 3px rgb(243, 104, 5);
+    border-radius: 3px;
+    overflow:hidden;
+    width: 200px;
+    height: 70px;
+    margin: 20px 20px;
+}
+
+#portII img{
+    height: 70px;
+    width: 80px;
+}
+
 .ports2 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 0px;
     color: rgb(0, 0, 0);
-    background: linear-gradient(180deg, #c2bebe, #ede8e8);
+    background: linear-gradient(90deg, #c2bebe, #ede8e8);
     text-align: left;
     list-style-type: none;
+    width: 120px;
 }
 
 .ports2 a{
     text-decoration: none;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: rgb(255, 72, 0);
+}
+
+#portIII{
+    display: flex;
+    box-shadow: 3px 3px 3px rgb(5, 9, 243);
+    border-radius:3px;
+    overflow:hidden;
+    width: 200px;
+    height: 70px;
+    margin: 20px 20px;
+}
+
+#portIII img{
+    height: 70px;
+    width: 80px;
 }
 
 .ports3 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
+    height: 70px;
+    width: 120px;
     color: rgb(0, 0, 0);
     background: linear-gradient(180deg, #c2bebe, #ede8e8);
     text-align: left;
@@ -148,62 +183,121 @@ footer ul{
 
 .ports3 a{
     text-decoration: none;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: blue;
+}
+
+#portIV{
+    display: flex;
+    box-shadow: 3px 3px 3px rgb(235, 243, 5);
+    border-radius: 3px;
+    overflow:hidden;
+    width: 200px;
+    height: 70px;
+    margin: 20px 20px;
 }
 
 .ports4 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
     color: rgb(0, 0, 0);
     background: linear-gradient(180deg, #c2bebe, #ede8e8);
     text-align: left;
     list-style-type: none;
 }
+
+
 
 .ports4 a{
     text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+#portV{
+    display: flex;
+    box-shadow: 3px 3px 3px rgb(5, 76, 243);
+    border-radius: 3px;
+    overflow:hidden;
+    height: 70px;
+    width: 200px;
+    margin: 20px 20px;
 }
 
 .ports5 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
     color: rgb(0, 0, 0);
     background: linear-gradient(180deg, #c2bebe, #ede8e8);
     text-align: left;
     list-style-type: none;
+    width: 120px;
 }
 
 .ports5 a{
     text-decoration: none;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: rgb(7, 7, 98);
+}
+
+#portVI{
+    display: flex;
+    box-shadow: 3px 3px 3px  rgb(8, 0, 255);
+    border-radius: 3px;
+    overflow:hidden;
+    height: 70px;
+    width: 200px;
+    margin: 20px 20px;
 }
 
 .ports6 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
     color: rgb(0, 0, 0);
     background: linear-gradient(180deg, #c2bebe, #ede8e8);
     text-align: left;
     list-style-type: none;
+    width: 120px;
 }
 
 .ports6 a{
     text-decoration: none;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    font-size: 20px;
+    color: rgb(8, 0, 255);
 }
 
+#portVII{
+    display: flex;
+    box-shadow: 3px 3px 3px  rgb(255, 200, 0);
+    border-radius: 3px;
+    overflow:hidden;
+    height: 70px;
+    width: 200px;
+    margin: 20px 20px;
+}
+
+
 .ports7 {
-    padding: 30px 50px 30px 50px;
-    background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    padding: 20px 30px 20px 30px;
     color: rgb(0, 0, 0);
     background: linear-gradient(180deg, #c2bebe, #ede8e8);
     text-align: left;
     list-style-type: none;
+    width: 120px;
 }
 
 .ports7 a{
     text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(11, 126, 25);
 }
 
 
