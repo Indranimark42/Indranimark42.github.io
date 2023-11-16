@@ -299,9 +299,6 @@ footer ul{
     color: rgb(11, 126, 25);
 }
 
-li:first-of-type{
-    grid-column: 4 / 3;
-}
 
 
 
