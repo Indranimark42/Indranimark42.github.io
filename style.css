@@ -67,6 +67,12 @@ header li{
 
 }
 
+#clam ul a:hover{
+    background-color: #4e4c4c;
+    padding: 5px 5px;
+    border-radius: 3px;
+}
+
 #hero {
     margin: 300px auto;
     height: 200px;
@@ -159,6 +165,12 @@ footer ul{
     flex-wrap: wrap;
     list-style-type: none;
     width: 100%;
+}
+
+footer ul a:hover{
+    background-color: #c2bebe;
+    padding: 2px 2px;
+    border-radius: 100px;
 }
 
 .Management img{
