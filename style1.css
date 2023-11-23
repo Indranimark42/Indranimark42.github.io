@@ -125,6 +125,7 @@ footer ul{
     grid-template-columns: 300px 300px;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    font-family: 'Kanit', sans-serif;
 }
 
 #portII {
